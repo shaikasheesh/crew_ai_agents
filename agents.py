@@ -1,6 +1,7 @@
 from crewai import Agent
 from llm_model import Agent_LLM
 from tools import order_details_data,returns_data,recommendation_data
+
 class CustomerAgents():
     def Query_Categorizer_Agent(self):
         return Agent(
@@ -99,4 +100,3 @@ Prod_recommendation_agent = agents.prod_recommendation_agent()
 agents_lst = [categorizer_agent,order_tracking_agent,returns_tracking_agent,Prod_recommendation_agent ]
 
 
-GROQ_API_KEY = "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"

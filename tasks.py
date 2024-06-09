@@ -36,7 +36,7 @@ class CustomerTasks():
             Current status of the order: 
             Order Date:
             Estimated delivery date: 
- 
+            sign of with Sales Manager
             """,
             context = [self.categorize_query(query)],
             output_file=f"order_details.txt",
@@ -55,7 +55,11 @@ class CustomerTasks():
             expected_output="""A well crafted Response for the customer to Provide Returns Details which includes 
             1. Return Eligibility :
             2. Return Reason :
-            3. Return Instruction :  """,
+            3. Return Instruction :  
+            If the Customer is Eligible then provide the Return Eligibility & Return Instruction. \
+            If Customer is not eligible then politely craft response that they are not eligible 
+            due to Return Reason & Return Instruction and sign of with Sales Manager
+            """,
             context = [self.categorize_query(query)],
             output_file=f"return_details.txt",
             agent=returns_tracking_agent

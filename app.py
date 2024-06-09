@@ -2,12 +2,13 @@ import streamlit as st
 
 from tasks import cust_tasks_obj
 from agents import agents_lst
+from crewai import Crew, Process
 
-query = st.input('Enter your Query Here')
+st.title("CrewAI Powered Customer Support Agents")
 
-submit = st.submit('Answer')
+query = st.text_input("Enter your Query Here ")
 
-if (submit):
+if (query):
     Customer_Query_catergorize = cust_tasks_obj.categorize_query(query=query)
     Track_Orders = cust_tasks_obj.track_order_details(query = query)
     Track_Returns = cust_tasks_obj.track_returns_details(query = query)

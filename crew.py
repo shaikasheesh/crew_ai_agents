@@ -2,6 +2,7 @@ from crewai import Crew, Process
 
 from tasks import cust_tasks_obj
 from agents import agents_lst
+
 query = "I want to Track Order #98765"
 
 
