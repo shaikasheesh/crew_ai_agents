@@ -37,3 +37,11 @@ return processing and personalized product recommendations. Multiple agents coll
 
 <img width="583" alt="image" src="https://github.com/shaikasheesh/crew_ai_agents/assets/63601317/b789b978-f121-4934-9c03-6ecf6d885a4e">
 
+_
+**Sample Outputs**_
+
+1. Order Tracking:
+
+2. Returns Processing:
+   <img width="942" alt="image" src="https://github.com/shaikasheesh/crew_ai_agents/assets/63601317/2fa91ced-bf4c-4d49-a81e-286d9f541715">
+
