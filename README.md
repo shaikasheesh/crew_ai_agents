@@ -33,7 +33,29 @@ return processing and personalized product recommendations. Multiple agents coll
   Input: Customer profile data and current query context from the Query Categorizer agent.
   Output: Personalized product recommendations.
 
-**Workflow**
+**HighLevel System Workflow**
 
 <img width="583" alt="image" src="https://github.com/shaikasheesh/crew_ai_agents/assets/63601317/b789b978-f121-4934-9c03-6ecf6d885a4e">
 
+
+
+_**Sample Outputs**_
+
+1. Order Tracking:
+
+<img width="943" alt="image" src="https://github.com/shaikasheesh/crew_ai_agents/assets/63601317/d0b27499-5249-4b66-9de5-1c3aa3ebcb3c">
+
+2. Returns Processing:
+
+<img width="942" alt="image" src="https://github.com/shaikasheesh/crew_ai_agents/assets/63601317/2fa91ced-bf4c-4d49-a81e-286d9f541715">
+
+3. Product Recommendations:
+
+<img width="949" alt="image" src="https://github.com/shaikasheesh/crew_ai_agents/assets/63601317/89335f59-777f-4223-a4d1-e48fbe81321b">
+
+
+
+
+**NOTE:**
+
+This Particular Use case can be scaled and further improvements can be added such as Conversational Chain, Adding more Internal DB if any etc..
