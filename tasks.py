@@ -79,7 +79,6 @@ class CustomerTasks():
             )      
 
 
-query = ''
 
 cust_tasks_obj = CustomerTasks()
 
