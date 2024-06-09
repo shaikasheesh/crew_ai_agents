@@ -97,3 +97,6 @@ returns_tracking_agent = agents.Returns_tracking_agent()
 Prod_recommendation_agent = agents.prod_recommendation_agent()
 
 agents_lst = [categorizer_agent,order_tracking_agent,returns_tracking_agent,Prod_recommendation_agent ]
+
+
+GROQ_API_KEY = "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"
