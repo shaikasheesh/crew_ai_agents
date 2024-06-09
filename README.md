@@ -41,10 +41,12 @@ _
 **Sample Outputs**_
 
 1. Order Tracking:
+
 <img width="943" alt="image" src="https://github.com/shaikasheesh/crew_ai_agents/assets/63601317/d0b27499-5249-4b66-9de5-1c3aa3ebcb3c">
 
 2. Returns Processing:
-   <img width="942" alt="image" src="https://github.com/shaikasheesh/crew_ai_agents/assets/63601317/2fa91ced-bf4c-4d49-a81e-286d9f541715">
+
+<img width="942" alt="image" src="https://github.com/shaikasheesh/crew_ai_agents/assets/63601317/2fa91ced-bf4c-4d49-a81e-286d9f541715">
 
 3. Product Recommendations:
 
