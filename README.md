@@ -51,3 +51,11 @@ _**Sample Outputs**_
 
 3. Product Recommendations:
 
+<img width="949" alt="image" src="https://github.com/shaikasheesh/crew_ai_agents/assets/63601317/89335f59-777f-4223-a4d1-e48fbe81321b">
+
+
+
+
+**NOTE:**
+
+This Particular Use case can be scaled and further improvements can be added such as Conversational Chain, Adding more Internal DB if any etc..
