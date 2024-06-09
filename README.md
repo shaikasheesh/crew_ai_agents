@@ -1,8 +1,8 @@
-**Use Case: **
-
+**Use Case:**
 The system aims to handle various customer service requests, such as order status inquiries, 
 return processing and personalized product recommendations. Multiple agents collaborate to provide comprehensive and efficient customer support
 
+#################################################################################################
 
 **Agents and their Roles:**
 
